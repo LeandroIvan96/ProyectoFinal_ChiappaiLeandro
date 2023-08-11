@@ -1,0 +1,113 @@
+[
+    {
+        "id": "Pc1",
+        "titulo": "PC I3- 12100",
+        "imagen": "./img/I312100.jpg",
+        "categoria": {
+            "nombre": "Pc",
+            "id": "pc"
+        },
+        "precio": 479000
+    },
+    {
+        "id": "Pc2",
+        "titulo": "PC I5-11400K",
+        "imagen": "./img/I511400.jpg",
+        "categoria": {
+            "nombre": "Pc",
+            "id": "pc"
+        },
+        "precio": 199000
+    },
+    {
+        "id": "Pc3",
+        "titulo": "PC AMD Ryzen7 5700G",
+        "imagen": "./img/AMD5700g.jpg",
+        "categoria": {
+            "nombre": "Pc",
+            "id": "pc"
+        },
+        "precio": 354000
+    },
+    {
+        "id": "Pc4",
+        "titulo": "PC AMD Ryzen7 X",
+        "imagen": "./img/AMD7700.jpg",
+        "categoria": {
+            "nombre": "Pc",
+            "id": "pc"
+        },
+        "precio": 636800
+    },
+    {
+        "id": "Pc5",
+        "titulo": "PC I7-12700",
+        "imagen": "./img/I712700.jpg",
+        "categoria": {
+            "nombre": "Pc",
+            "id": "pc"
+        },
+        "precio": 250400
+    },
+    {
+        "id": "Pc6",
+        "titulo": "PC I9-12900",
+        "imagen": "./img/I912900.jpg",
+        "categoria": {
+            "nombre": "Pc",
+            "id": "pc"
+        },
+        "precio": 714000
+    },
+    {
+        "id": "Monitor27",
+        "titulo": "Monitor Samsung 27",
+        "imagen": "./img/Monitor27.png",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 99000
+    },
+    {
+        "id": "Monitor32",
+        "titulo": "Monitor Samsung 32",
+        "imagen": "./img/Monitor32.png",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 169000
+    },
+
+    {
+        "id": "Kit",
+        "titulo": "Kit Teclado + Mouse",
+        "imagen": "./img/KitGaming.png",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 45099
+    },
+    {
+        "id": "Auris",
+        "titulo": "Auriculares Gamer Logitech Astro A10",
+        "imagen": "./img/Auriculares.jpg",
+        "categoria": {
+            "nombre": "Perifericios",
+            "id": "perifericos"
+        },
+        "precio": 52789
+    },
+    {
+        "id": "Microfono",
+        "titulo": "Microfono Hyperx",
+        "imagen": "./img/Microfono.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 109989
+    }
+]
